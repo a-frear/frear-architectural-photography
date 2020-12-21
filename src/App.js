@@ -23,7 +23,7 @@ function App() {
       <div className="body">
           <header>
               <h1>FREAR PHOTOGRAPHY</h1>
-              <img src="/img/camac-kitchen-1.jpg" alt="Sunlit kitchen with custom cabinets" className="main-img" />
+              <img src="img/camac-kitchen-1.jpg" alt="Sunlit kitchen with custom cabinets" className="main-img" />
               <h2>architectural and interior photography in philadelphia</h2>
           </header>
           <main>

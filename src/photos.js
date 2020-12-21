@@ -7,7 +7,7 @@ export const photos = [
         title: "Tub with tile"
       },
     {
-      src: "/img/camac-bedroom.jpg",
+      src: "img/camac-bedroom.jpg",
       width: 5,
       height: 3
     },
