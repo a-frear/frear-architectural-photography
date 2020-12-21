@@ -12,7 +12,7 @@ export const photos = [
       height: 3
     },
     {
-      src: "img/camac-sink-1.jpg",
+      src: "img/camac-sink-1.jpg",  
       width: 1,
       height: 1
     },
