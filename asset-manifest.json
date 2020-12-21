@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/frear-architectural-photography/static/css/main.c0d2f986.chunk.css",
-    "main.js": "/frear-architectural-photography/static/js/main.bbaeb250.chunk.js",
-    "main.js.map": "/frear-architectural-photography/static/js/main.bbaeb250.chunk.js.map",
+    "main.js": "/frear-architectural-photography/static/js/main.e6dc1810.chunk.js",
+    "main.js.map": "/frear-architectural-photography/static/js/main.e6dc1810.chunk.js.map",
     "runtime-main.js": "/frear-architectural-photography/static/js/runtime-main.915b4c14.js",
     "runtime-main.js.map": "/frear-architectural-photography/static/js/runtime-main.915b4c14.js.map",
-    "static/js/2.4b83f318.chunk.js": "/frear-architectural-photography/static/js/2.4b83f318.chunk.js",
-    "static/js/2.4b83f318.chunk.js.map": "/frear-architectural-photography/static/js/2.4b83f318.chunk.js.map",
+    "static/js/2.a1f2af3a.chunk.js": "/frear-architectural-photography/static/js/2.a1f2af3a.chunk.js",
+    "static/js/2.a1f2af3a.chunk.js.map": "/frear-architectural-photography/static/js/2.a1f2af3a.chunk.js.map",
     "index.html": "/frear-architectural-photography/index.html",
     "static/css/main.c0d2f986.chunk.css.map": "/frear-architectural-photography/static/css/main.c0d2f986.chunk.css.map",
-    "static/js/2.4b83f318.chunk.js.LICENSE.txt": "/frear-architectural-photography/static/js/2.4b83f318.chunk.js.LICENSE.txt",
+    "static/js/2.a1f2af3a.chunk.js.LICENSE.txt": "/frear-architectural-photography/static/js/2.a1f2af3a.chunk.js.LICENSE.txt",
     "static/media/Contact.css": "/frear-architectural-photography/static/media/camac-backdoor.097127c1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.915b4c14.js",
-    "static/js/2.4b83f318.chunk.js",
+    "static/js/2.a1f2af3a.chunk.js",
     "static/css/main.c0d2f986.chunk.css",
-    "static/js/main.bbaeb250.chunk.js"
+    "static/js/main.e6dc1810.chunk.js"
   ]
 }
