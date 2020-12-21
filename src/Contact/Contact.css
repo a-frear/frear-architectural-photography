@@ -1,0 +1,61 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.contact a {
+    text-decoration: none;
+    font-style: italic;
+    color: black;
+    font-size: 20px;
+}
+
+.contact p {
+  margin-top: -10px;
+  margin-bottom: 30px;
+}
+
+.contact h2 {
+    font-family: 'Baskervville', serif;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.contact img {
+    width: 25%;
+    margin-bottom: 50px;
+}
+
+@media all and (min-width: 815px){
+.contact {
+    background-image: url(../css-img/camac-backdoor.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 800px;
+    width: 100%;
+    border-radius: 1%;
+  }
+
+  .contact p {
+    font-size: 35px;
+    margin-top: -20px;
+  }
+
+    #get-in-touch {
+    margin-top: 300px;
+    font-size: 70px;
+    line-height: 75px;
+    font-weight: bolder;
+    text-align: center;
+    }
+
+    .contact a {
+      font-size: 30px;
+  }
+
+  .contact img {
+    width: 5%;
+    margin-bottom: 50px;
+}
+}

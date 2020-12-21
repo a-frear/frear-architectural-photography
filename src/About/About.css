@@ -1,0 +1,64 @@
+/****About****/
+
+.about {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 80px 0px 25px 0px;
+  }
+  
+  .amy-pic {
+  border-radius: 50%;
+  max-width: 300px;
+  width: 100%;
+  }
+  
+  .about h2 {
+  font-family: 'Baskervville', serif;
+  font-size: 40px;
+  font-style: italic;
+  }
+  
+  .about h2, .about h3, .about p {
+    max-width: 600px;
+  }
+
+  .about h3 {
+    font-size: 28px;
+    letter-spacing: 1px;
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+  .about p {
+    font-size: 25px;
+  }
+
+  @media all and (min-width: 815px) {
+    .about {
+      flex-direction: row;
+      justify-content: center;
+      margin: 100px 0px;
+    }
+
+    .about h2, .about p {
+      margin-left: 80px;
+      max-width: 600px;
+      text-align: left;
+    }
+
+    .about h2 {
+      font-size: 55px;
+    }
+
+    .about p {
+      margin-top: -30px;
+      font-size: 35px;
+      line-height: 42px;
+    }
+
+    .amy-pic {
+      margin-top: 70px;
+      max-width: 1000px;
+    }
+}
